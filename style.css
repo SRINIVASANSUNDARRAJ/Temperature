@@ -1,0 +1,17 @@
+body{
+    margin: auto;
+    padding: auto;
+    text-align: center
+}
+h1{
+    color: blue;
+}
+#main,h1,h3,#unit,#tounit,#btn,#result,#temperature{
+    padding: 10px 10px;
+    margin: auto;
+    border-radius: 8px;
+}
+#btn{
+    margin: 20px;
+    background-color: antiquewhite;
+}
